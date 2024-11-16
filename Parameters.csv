@@ -1,0 +1,2 @@
+ETS Model Name,AIC,Smoothing Level (alpha),Smoothing Trend (beta),Smoothing Seasonal (gamma),Damping Trend (phi),Seasonal Periods
+ETSModel,75938.3686338041,,,,,12
